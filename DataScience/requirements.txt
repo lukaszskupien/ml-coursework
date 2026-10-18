@@ -1,0 +1,9 @@
+category-encoders
+feature-engine
+featuretools
+seaborn
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
